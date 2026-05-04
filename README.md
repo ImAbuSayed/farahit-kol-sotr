@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي في عيونك سحر الليل
+> نار الشوق في قلبي زادت حيل
+> نبض قلبي دايما بيسأل عليك
+> كل روحي غارقة في لمسة إيديك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
