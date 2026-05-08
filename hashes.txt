@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Farahit Kol Sotr
+
+This log tracks the cryptographic history and versioning for the song **Farahit Kol Sotr** (farahit-kol-sotr).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T19:04:48.686910 | `v1` | `2afe87b8a93899ef069be5482447d5b780484703f40f4d68bf1e128bed625965` | `c425bdffc56db0d0dbcc7b78bc083d397aee6c78a095d13a589efa8edf0e4dc0` | `2026-05-08_farahit-kol-sotr-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
